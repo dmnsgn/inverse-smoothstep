@@ -27,13 +27,13 @@
   "exports": "./index.js",
   "main": "index.js",
   "types": "types/index.d.ts",
-  "engines": {
-    "node": ">=20.0.0",
-    "npm": ">=9.6.4"
-  },
   "devDependencies": {
     "canvas-context": "^3.2.0",
     "es-module-shims": "^1.8.3",
     "tweakpane": "^4.0.3"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.6.4"
   }
 }

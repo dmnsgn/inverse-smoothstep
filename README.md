@@ -42,7 +42,21 @@ inverseSmoothstep(0.75)
 
 <!-- api-start -->
 
-Auto-generated API content.
+<a name="module_inverseSmoothstep"></a>
+
+## inverseSmoothstep
+
+<a name="exp_module_inverseSmoothstep--inverseSmoothstep"></a>
+
+### inverseSmoothstep(x) ⇒ <code>number</code> ⏏
+
+The inverse of the smoothstep function
+
+**Kind**: Exported function
+
+| Param | Type                |
+| ----- | ------------------- |
+| x     | <code>number</code> |
 
 <!-- api-end -->
 

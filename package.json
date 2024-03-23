@@ -1,0 +1,39 @@
+{
+  "name": "inverse-smoothstep",
+  "version": "1.0.0",
+  "description": "The inverse of the smoothstep function.",
+  "keywords": [
+    "inverse-smoothstep",
+    "smoothstep",
+    "interpolation"
+  ],
+  "homepage": "https://github.com/dmnsgn/inverse-smoothstep",
+  "bugs": "https://github.com/dmnsgn/inverse-smoothstep/issues",
+  "repository": "dmnsgn/inverse-smoothstep",
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://paypal.me/dmnsgn"
+    },
+    {
+      "type": "individual",
+      "url": "https://commerce.coinbase.com/checkout/56cbdf28-e323-48d8-9c98-7019e72c97f3"
+    }
+  ],
+  "license": "MIT",
+  "author": "Damien Seguin (https://github.com/dmnsgn)",
+  "sideEffects": false,
+  "type": "module",
+  "exports": "./index.js",
+  "main": "index.js",
+  "types": "types/index.d.ts",
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.6.4"
+  },
+  "devDependencies": {
+    "canvas-context": "^3.2.0",
+    "es-module-shims": "^1.8.3",
+    "tweakpane": "^4.0.3"
+  }
+}

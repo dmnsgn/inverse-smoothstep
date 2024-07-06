@@ -1,6 +1,6 @@
 {
   "name": "inverse-smoothstep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The inverse of the smoothstep function.",
   "keywords": [
     "inverse-smoothstep",
@@ -9,7 +9,10 @@
   ],
   "homepage": "https://github.com/dmnsgn/inverse-smoothstep",
   "bugs": "https://github.com/dmnsgn/inverse-smoothstep/issues",
-  "repository": "dmnsgn/inverse-smoothstep",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmnsgn/inverse-smoothstep.git"
+  },
   "funding": [
     {
       "type": "individual",
